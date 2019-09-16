@@ -1,0 +1,12 @@
+package com.hw07;
+
+import java.util.*;
+
+public class homework07 {
+	String s[];
+	String ss[]= {"William Ho"};
+	s=ss.toUpperCase();
+	s=s.trim();
+	System.out.println(s);
+	
+}

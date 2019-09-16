@@ -1,0 +1,97 @@
+@charset "UTF-8";
+
+.red
+{
+	width:150px;
+	height:105px;
+	background:red;
+	position:fixed;
+ 	right:0;
+	top:0;
+}
+.red:hover{background:pink;}
+ 
+.orange
+{
+	width:150px;
+	height:105px;
+	background:#ed7512;
+	position:fixed;
+	right:0;
+	top:105px;
+}
+.orange:hover{background:#ff80ff;}
+
+.yellow
+{
+	width:150px;
+	height:105px;
+	background:yellow;
+	position:fixed;
+	right:0;
+	top:210px;
+}
+.yellow:hover{background:#10a2ef;}
+
+.green
+{
+	width:150px;
+	height:105px;
+	background:#37c402;
+	position:fixed;
+	right:0;
+	top:315px;
+}
+.green:hover{background:cyan;}
+
+.cyan
+{
+	width:150px;
+	height:105px;
+	background:cyan;
+	position:fixed;
+	right:0;
+	top:420px;
+}
+.cyan:hover{background:#37c402;}
+
+.blue
+{
+	width:150px;
+	height:105px;
+	background:#10a2ef;
+	position:fixed;
+	right:0;
+	top:525px;
+}
+.blue:hover{background:yellow;}
+
+.purple
+{
+	width:150px;
+	height:105px;
+	background:#ff80ff;
+	position:fixed;
+	right:0;
+	top:630px;
+}
+.purple:hover{background:#ed7512;}
+
+.pink
+{
+	width:150px;
+	height:105px;
+	background:pink;
+	position:fixed;
+	right:0;
+	top:735px;
+}
+.pink:hover{background:red;}
+
+.margin ul
+{
+	width:500px;
+	height:100px;
+	background:#528cdc;
+	margin:50px auto 0 auto;
+}
